@@ -1,3 +1,6 @@
+### POINTS: 2
+### KEY: Well done across the board. Even the challenge.
+
 # JavaScript: Additional events, timers, add attributes
 
 ### Exercise 1:
